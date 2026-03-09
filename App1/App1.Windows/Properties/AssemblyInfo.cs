@@ -24,6 +24,6 @@ using System.Runtime.InteropServices;
 // すべての値を指定することも、下に示すように '*' を使用してビルドおよびリビジョン番号を
 // 既定値にすることもできます。
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.0.0.0")]
-[assembly: AssemblyFileVersion("2.0.0.0")]
+[assembly: AssemblyVersion("3.0.0.0")]
+[assembly: AssemblyFileVersion("3.0.0.0")]
 [assembly: ComVisible(false)]
